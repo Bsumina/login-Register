@@ -1,0 +1,159 @@
+/* yourapp/static/css/featured.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.featured-books {
+    background-color: #f8f8f8;
+    padding: 40px 0;
+}
+
+.featured-book {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.featured-book-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.featured-book-details {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.author {
+    font-style: italic;
+    color: #555;
+}
+
+.description {
+    color: #666;
+}
+
+.price {
+    color: #e44d26;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.buy-now-button {
+    background-color: #e44d26;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.buy-now-button:hover {
+    background-color: #d63e1a;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* yourapp/static/css/featured.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.featured-books {
+    background-color: #f8f8f8;
+    padding: 40px 0;
+}
+
+.featured-book {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.featured-book-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.featured-book-details {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.author {
+    font-style: italic;
+    color: #555;
+}
+
+.description {
+    color: #666;
+}
+
+.price {
+    color: #e44d26;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.buy-now-button {
+    background-color: #e44d26;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.buy-now-button:hover {
+    background-color: #d63e1a;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
